@@ -1,0 +1,2 @@
+MATCH (all)
+DETACH DELETE all
